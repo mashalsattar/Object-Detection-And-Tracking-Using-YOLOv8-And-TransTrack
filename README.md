@@ -104,9 +104,17 @@ yolo train model=yolov8n.pt data=data.yaml epochs=20 imgsz=100
 
 **imgsz=100:** Image size (resolution) for training.
 
+# F1 Curve:
+
+![F1_curve](https://github.com/user-attachments/assets/7c26e41e-42f8-4941-8840-a7080327ad70)
+
 # Monitor Training
 
 The training process will generate logs and save checkpoints. Monitor the output for metrics like loss, precision, recall, and mAP (mean Average Precision). You can visualize the training progress using tools like TensorBoard or directly from the log files.
+
+# Confusion Matrix:
+
+![confusion_matrix](https://github.com/user-attachments/assets/75228404-df03-4cb0-b76c-ed2a057f329d)
 
 # Annotation Formats
 LabelImg supports multiple annotation formats, but Pascal VOC is widely used for object detection tasks.
@@ -114,6 +122,10 @@ LabelImg supports multiple annotation formats, but Pascal VOC is widely used for
 # Flowchart Of The Process:
 
 ![WhatsApp Image 2024-08-10 at 2 24 55 PM](https://github.com/user-attachments/assets/8abe34a9-fb29-40ca-aaaf-16e99ec5aeb9)
+
+# Results:
+
+![results](https://github.com/user-attachments/assets/7e20e9fe-8bee-42d8-8e33-c60352d0d02f)
 
 # Disclaimer
 
