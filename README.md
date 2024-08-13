@@ -1,7 +1,5 @@
 # Object-Detection-And-Tracking-Using-YOLOv8-And-TransTrack
 
-# Real-time Object Tracking with DETR
-
 This project implements a real-time object tracking system using the pre-trained DETR (DEtection Transformer) model from Facebook Research. It utilizes a webcam feed and detects objects within each frame.
 
 This project uses a pre-trained DETR model for object detection, not YOLOv8. YOLOv8 is a separate object detection model that is not used here.
@@ -115,7 +113,7 @@ LabelImg supports multiple annotation formats, but Pascal VOC is widely used for
 
 # Flowchart Of The Process:
 
- ![WhatsApp Image 2024-08-10 at 2 24 55 PM](https://github.com/user-attachments/assets/a7456dfe-bbde-412d-8cbe-c30e1045fee3)
+![WhatsApp Image 2024-08-10 at 2 24 55 PM](https://github.com/user-attachments/assets/8abe34a9-fb29-40ca-aaaf-16e99ec5aeb9)
 
 # Disclaimer
 
