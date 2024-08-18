@@ -127,6 +127,10 @@ LabelImg supports multiple annotation formats, but Pascal VOC is widely used for
 
 ![results](https://github.com/user-attachments/assets/7e20e9fe-8bee-42d8-8e33-c60352d0d02f)
 
+# RealTime Results:
+
+![Output](https://github.com/user-attachments/assets/5f9b3357-604f-474e-8665-c6f422ef1806)
+
 # Disclaimer
 
 The pre-trained DETR model used in this project might not detect all objects perfectly. Its performance depends on the training data and specific object types.
